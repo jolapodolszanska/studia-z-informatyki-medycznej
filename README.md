@@ -11,6 +11,7 @@ Akademia Górniczo-Hutnicza w Krakowie, Wydział Elektrotechniki, Automatyki, In
 Medical Informatics, Wydział Podstawowych Problemów Techniki, Politechnika Wrocławska - <url> https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/medical-informatics/ </url>
 
 # Studia drugiego stopnia 
+Inżynieria Medyczna, Wydział Nauk Ścisłych, Przyrodniczych i Technicznych, Uniwersytet Jana Długosza w Częstochowie - <url>https://www.otouczelnie.pl/wydzial/719/Wydzial-Nauk-Scislych-Przyrodniczych-i-Technicznych#INZYNIERIA-MEDYCZNA</url>
 
 # Studia podyplomowe 
 Statystyka i informatyka medyczna, Biznes, Prawo, Administracja, Wyższa Szkoła Nauk o Zdrowium w Bydgoszczy - <url> https://podyplomowe.wsnoz.pl/oferta/studia-podyplomowe/statystyka-i-informatyka-medyczna/ </url>
